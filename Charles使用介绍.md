@@ -9,3 +9,5 @@ Charles功能很强大，重点关注两项：代理转发与截取移动端网�
 ![代理设置](https://github.com/starsworld/blog/blob/master/image/1.jpeg) 
 ![转发设置](https://github.com/starsworld/blog/blob/master/image/2.jpeg)
 主要是使用了Map Remote功能
+##注意问题
+https服务器上不允许发送http请求，需要适配
